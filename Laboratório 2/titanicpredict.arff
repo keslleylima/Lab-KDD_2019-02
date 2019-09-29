@@ -1,0 +1,22 @@
+@relation titanicpredict
+
+@attribute Class {3rd,1st,2nd,Crew}
+@attribute Sex {Male,Female}
+@attribute Age {Child,Adult}
+@attribute Survived {No,Yes}
+
+@data
+3rd,Male,Child,?
+3rd,Female,Child,?
+1st,Male,Adult,?
+1st,Female,Adult,?
+2nd,Male,Adult,?
+Crew,Male,Adult,?
+3rd,Female,Adult,?
+Crew,Female,Adult,?
+Crew,Female,Adult,?
+1st,Male,Child,?
+2nd,Male,Child,?
+3rd,Male,Child,?
+3rd,Female,Child,?
+1st,Male,Adult,?
